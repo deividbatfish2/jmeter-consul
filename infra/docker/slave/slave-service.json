@@ -1,0 +1,9 @@
+{
+    "service": {
+        "name": "jmeter",
+        "tags": [
+            "qa", "jmeter"
+        ],
+        "port": 60000
+    }
+}
